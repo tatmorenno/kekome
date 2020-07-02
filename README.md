@@ -8,6 +8,9 @@ App de cadastro de receitas onde o usuário poderá adicionar:
 
 E visualizar, editar e excluir as receitas adicionadas anteriormente.
 
+## 💻 Linguagem utilizada:
+- [Kotlin](https://kotlinlang.org/)
+
 ---
 A ser desenvolvido com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
 # KÉK🥘MÊ?
