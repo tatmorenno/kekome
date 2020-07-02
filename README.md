@@ -1,0 +1,1 @@
+App de cadastro de receitas onde o usuário poderá adicionar uma nova receita (descrição, ingredientes, modo de preparo e rendimento), visualizar,  editar e excluir as receitas adicionadas anteriormente.
