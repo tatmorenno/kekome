@@ -2,9 +2,9 @@
 
 App de cadastro de receitas onde o usuário poderá adicionar:
 - Descrição;
-- Ingredientes
-- Modo de preparo
-- Rendimento
+- Ingredientes;
+- Modo de preparo;
+- Rendimento.
 
 E visualizar, editar e excluir as receitas adicionadas anteriormente.
 
