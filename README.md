@@ -1,5 +1,5 @@
 # Kekumê? 🍰
-##´Tem que fazer! 🥣
+## Tem que fazer! 🥣
 
 App de cadastro de receitas onde o usuário poderá adicionar:
 - Descrição;
