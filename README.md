@@ -10,4 +10,4 @@ E visualizar, editar e excluir as receitas adicionadas anteriormente.
 
 ---
 A ser desenvolvido com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
-# KÉK🍛MÊ?
+# KÉK🥘MÊ?
