@@ -1,0 +1,24 @@
+{
+  "name": "recipenodeapi",
+  "version": "1.0.0",
+  "description": "Intro Node com Mongo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "JS",
+    "API",
+    "Rest"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
