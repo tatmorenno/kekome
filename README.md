@@ -12,5 +12,5 @@ E visualizar, editar e excluir as receitas adicionadas anteriormente.
 - [Kotlin](https://kotlinlang.org/)
 
 ---
-♥ Em desenvolvimento por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
+📲 Em desenvolvimento por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
 # KÉK🥘MÊ?
