@@ -1,6 +1,6 @@
 # Kekomê? 🍰 Tem que fazer! 🥣
 
-App de cadastro de receitas para empresas de pequeno porte onde o usuário poderá adicionar:
+App de cadastro de receitas para empresas alimentícias de pequeno porte onde o usuário poderá adicionar:
 - Descrição;
 - Ingredientes;
 - Modo de preparo;
