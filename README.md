@@ -10,6 +10,7 @@ E visualizar, editar e excluir as receitas adicionadas anteriormente.
 
 ## 💻 Linguagem utilizada:
 - [Kotlin](https://kotlinlang.org/)
+- [JavaScript](https://www.javascript.com/)
 
 ---
 📲 Em desenvolvimento por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
